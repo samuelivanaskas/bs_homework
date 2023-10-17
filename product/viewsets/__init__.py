@@ -1,0 +1,2 @@
+from .product_viewsets import ProductViewSets
+from .category_viewsets import CategoryViewSets
